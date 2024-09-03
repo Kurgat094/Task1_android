@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FB0505</color>
+    <color name="grey">#C5C7C9</color>
+    <color name="green">#139655</color>
+    <color name="blue">#0535F8</color>
+    <color name="purple">#8243F2</color>
+    <color name="puple200">#CA3BF1</color>
+    <color name= "primaryvarient">#ece5dd</color>
+</resources>

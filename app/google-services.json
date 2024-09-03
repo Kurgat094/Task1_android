@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569658371918",
+    "project_id": "fridaybook2",
+    "storage_bucket": "fridaybook2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569658371918:android:b8f0dc8105b0f2df78781f",
+        "android_client_info": {
+          "package_name": "com.example.fridaybook2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6sSWsukn_Wgzz3q89ZBIp0E8i2KucC8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
